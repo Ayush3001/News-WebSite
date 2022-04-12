@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Beth Mole",
+      "title": "Ivermectin fails another COVID trial as study links use to GOP politics",
+      "description": "\"Political affiliation should not be a factor in clinical treatment decisions.\"",
+      "url": "https://arstechnica.com/science/2022/02/ivermectin-fails-another-covid-trial-as-study-links-use-to-gop-politics/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-1232983095-760x380.jpeg",
+      "publishedAt": "2022-02-21T23:32:26+00:00",
+      "content": "Enlarge/ Tablets of ivermectin.\r\n444 with 178 posters participating\r\nThe antiparasitic drug ivermectin failed to treat COVID-19 in yet another randomized clinical trial, but the drug remains popular … [+5525 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-1232983095-760x380.jpeg",
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
